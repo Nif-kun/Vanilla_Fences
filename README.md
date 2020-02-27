@@ -2,6 +2,7 @@
 A Rimworld mod that provides 8 types of fences that blends nicely with the vanilla aesthetic. All of which can be used as defense cover and can be easily modified with the mod settings, along with other options.
 
 Changelog:
+
 »Minor update (v1.5.9) [02/22/20]
 -Fixed 1.0 incompatibility.
 -Once again compatible with 1.1
